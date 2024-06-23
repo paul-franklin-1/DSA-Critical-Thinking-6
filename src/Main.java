@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         CustomLinkedList linkedList = new CustomLinkedList();
 
-        // Insert some elementss
+        // Insert some elementssas
         linkedList.insert(1);
         linkedList.insert(2);
         linkedList.insert(3);
